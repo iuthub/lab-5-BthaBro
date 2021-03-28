@@ -24,3 +24,15 @@ input[type="submit"] {
     font-size: 2em;
     width: 100%;
 }
+
+.inputs {
+    margin: 10px;
+}
+
+.inputs input[type="text"], select {
+    margin-left: 50px;
+}
+
+.radio-inputs {
+    margin-left: 50px;
+}
